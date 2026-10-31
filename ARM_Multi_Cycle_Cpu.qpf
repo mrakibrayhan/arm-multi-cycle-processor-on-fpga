@@ -1,0 +1,3 @@
+QUARTUS_VERSION = "25.1"
+DATE = "13:30:00  October 21, 2026"
+PROJECT_REVISION = "ARM_Multi_Cycle_Cpu"
